@@ -9,7 +9,7 @@ Arduino-ESP32 example sketch to send device and sensor data to NagiosXI via NRDP
 5. Sens4 = Example of State (Unknown)
 6. Sens5 = Example of State determined by evaluatated thresholds
 
-# Chenge to your needed settings
+# Change to your needed settings
 YourSSID
 YourPassword
 hostname
